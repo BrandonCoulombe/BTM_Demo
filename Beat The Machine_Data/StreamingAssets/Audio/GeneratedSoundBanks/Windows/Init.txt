@@ -1,0 +1,42 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	1021618141	MusicState			\Default Work Unit\MusicState	
+
+State	ID	Name	State Group			Notes
+	0	None	MusicState			
+	2607556080	Menu	MusicState			
+	2678230374	Level9	MusicState			
+	2678230375	Level8	MusicState			
+	2678230376	Level7	MusicState			
+	2678230377	Level6	MusicState			
+	2678230378	Level5	MusicState			
+	2678230379	Level4	MusicState			
+	2678230380	Level3	MusicState			
+	2678230381	Level2	MusicState			
+	2678230382	Level1	MusicState			
+	3118768802	Level25	MusicState			
+	3118768803	Level24	MusicState			
+	3118768804	Level23	MusicState			
+	3118768805	Level22	MusicState			
+	3118768806	Level21	MusicState			
+	3118768807	Level20	MusicState			
+	3135546386	Level18	MusicState			
+	3135546387	Level19	MusicState			
+	3135546392	Level12	MusicState			
+	3135546393	Level13	MusicState			
+	3135546394	Level10	MusicState			
+	3135546395	Level11	MusicState			
+	3135546396	Level16	MusicState			
+	3135546397	Level17	MusicState			
+	3135546398	Level14	MusicState			
+	3135546399	Level15	MusicState			
+	3611587664	Survival1	MusicState			
+	3611587667	Survival2	MusicState			
+	3762955427	Tutorial	MusicState			
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

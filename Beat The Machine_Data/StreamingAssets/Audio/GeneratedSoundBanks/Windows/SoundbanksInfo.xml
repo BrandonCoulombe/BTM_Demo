@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="134">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Joe\wkspaces\Cove_Beat_the_Machine\Beat The Machine\Beat The Machine_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Joe\wkspaces\Cove_Beat_the_Machine\Beat The Machine\Beat The Machine_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Joe\wkspaces\Cove_Beat_the_Machine\Beat The Machine\Build\Beat The Machine_Data\StreamingAssets\Audio\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Joe\wkspaces\Cove_Beat_the_Machine\Beat The Machine\Beat The Machine_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="731499172" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\BTM</ObjectPath>
+			<ShortName>BTM</ShortName>
+			<Path>BTM.bnk</Path>
+			<IncludedEvents>
+				<Event Id="257088450" Name="Play_Accept" ObjectPath="\Events\Default Work Unit\Play_Accept" DurationType="OneShot" DurationMin="1.850952" DurationMax="1.850952"/>
+				<Event Id="1292086503" Name="Play_Back" ObjectPath="\Events\Default Work Unit\Play_Back" DurationType="OneShot" DurationMin="1.850952" DurationMax="1.850952"/>
+				<Event Id="596634384" Name="Play_BigRigHum" ObjectPath="\Events\Default Work Unit\Play_BigRigHum" MaxAttenuation="5.000000" DurationType="Infinite"/>
+				<Event Id="4072798382" Name="Play_BoomBox" ObjectPath="\Events\Default Work Unit\Play_BoomBox" DurationType="OneShot" DurationMin="1.850952" DurationMax="1.850952"/>
+				<Event Id="808719710" Name="Play_bullet" ObjectPath="\Events\Default Work Unit\Play_bullet" DurationType="OneShot" DurationMin="0.945262" DurationMax="1.500510"/>
+				<Event Id="1617599367" Name="Play_BuySound" ObjectPath="\Events\Default Work Unit\Play_BuySound" DurationType="OneShot" DurationMin="3.879819" DurationMax="3.879819"/>
+				<Event Id="1712720967" Name="Play_CriticalHealth" ObjectPath="\Events\Default Work Unit\Play_CriticalHealth" DurationType="OneShot" DurationMin="2.899048" DurationMax="2.899048"/>
+				<Event Id="1523662489" Name="Play_DeathSound" ObjectPath="\Events\Default Work Unit\Play_DeathSound" MaxAttenuation="11.000000" DurationType="OneShot" DurationMin="1.850952" DurationMax="1.850952"/>
+				<Event Id="863241602" Name="Play_EnemyBullet" ObjectPath="\Events\Default Work Unit\Play_EnemyBullet" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="1.308061" DurationMax="1.849878"/>
+				<Event Id="2757069037" Name="Play_Fan" ObjectPath="\Events\Default Work Unit\Play_Fan" MaxAttenuation="8.000000" DurationType="Infinite"/>
+				<Event Id="1058666643" Name="Play_FireWallSound" ObjectPath="\Events\Default Work Unit\Play_FireWallSound" MaxAttenuation="8.000000" DurationType="OneShot" DurationMin="10.824988" DurationMax="10.824988"/>
+				<Event Id="1245633310" Name="Play_GeneratorSound" ObjectPath="\Events\Default Work Unit\Play_GeneratorSound" DurationType="OneShot" DurationMin="4.406259" DurationMax="4.406259"/>
+				<Event Id="3194400781" Name="Play_HealSound" ObjectPath="\Events\Default Work Unit\Play_HealSound" DurationType="OneShot" DurationMin="0.607812" DurationMax="0.607812"/>
+				<Event Id="1890063380" Name="Play_HealthPing" ObjectPath="\Events\Default Work Unit\Play_HealthPing" DurationType="Infinite"/>
+				<Event Id="789069769" Name="Play_HullMending" ObjectPath="\Events\Default Work Unit\Play_HullMending" DurationType="OneShot" DurationMin="6.621781" DurationMax="6.621781"/>
+				<Event Id="2356524575" Name="Play_Key" ObjectPath="\Events\Default Work Unit\Play_Key" DurationType="OneShot" DurationMin="1.855760" DurationMax="1.855760"/>
+				<Event Id="1202337555" Name="Play_LevelUp" ObjectPath="\Events\Default Work Unit\Play_LevelUp" DurationType="OneShot" DurationMin="5.168753" DurationMax="5.168753"/>
+				<Event Id="3551589749" Name="Play_LockedGate" ObjectPath="\Events\Default Work Unit\Play_LockedGate" DurationType="OneShot" DurationMin="1.850952" DurationMax="3.701905"/>
+				<Event Id="2932040671" Name="Play_Music" ObjectPath="\Events\Default Work Unit\Play_Music" DurationType="Infinite"/>
+				<Event Id="1653286796" Name="Play_PhaserLaser" ObjectPath="\Events\Default Work Unit\Play_PhaserLaser" DurationType="OneShot" DurationMin="5.360567" DurationMax="5.360567"/>
+				<Event Id="3860455926" Name="Play_PickUp" ObjectPath="\Events\Default Work Unit\Play_PickUp" DurationType="OneShot" DurationMin="2.389433" DurationMax="2.389433"/>
+				<Event Id="1467020134" Name="Play_TankBullet" ObjectPath="\Events\Default Work Unit\Play_TankBullet" MaxAttenuation="10.000000" DurationType="OneShot" DurationMin="3.288499" DurationMax="3.691216"/>
+				<Event Id="2641456705" Name="Play_WaveDash" ObjectPath="\Events\Default Work Unit\Play_WaveDash" DurationType="OneShot" DurationMin="1.850952" DurationMax="1.850952"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="22048728" Language="SFX">
+					<ShortName>KeyPickup.wav</ShortName>
+					<Path>SFX\KeyPickup_10C4C929.wem</Path>
+				</File>
+				<File Id="43575683" Language="SFX">
+					<ShortName>Beat the Machine - Building Up!130BPM_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - Building Up!130BPM_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="65008560" Language="SFX">
+					<ShortName>Blade.wav</ShortName>
+					<Path>SFX\Blade_10C4C929.wem</Path>
+				</File>
+				<File Id="81385076" Language="SFX">
+					<ShortName>Beat the Machine - Tutorial_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - Tutorial_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="84662671" Language="SFX">
+					<ShortName>Speaker Boom.wav</ShortName>
+					<Path>SFX\Speaker Boom_10C4C929.wem</Path>
+				</File>
+				<File Id="86038993" Language="SFX">
+					<ShortName>Overclocked_Insert 6.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 6_D79FB2B7.wem</Path>
+				</File>
+				<File Id="87435853" Language="SFX">
+					<ShortName>BTM10.wav</ShortName>
+					<Path>SFX\BTM10_D79FB2B7.wem</Path>
+				</File>
+				<File Id="110436241" Language="SFX">
+					<ShortName>HealthCritical.wav</ShortName>
+					<Path>SFX\HealthCritical_10C4C929.wem</Path>
+				</File>
+				<File Id="112661024" Language="SFX">
+					<ShortName>DangerDanger_Insert 1.wav</ShortName>
+					<Path>SFX\DangerDanger_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="115974488" Language="SFX">
+					<ShortName>Beat the Machine - GameOver_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - GameOver_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="126411028" Language="SFX">
+					<ShortName>Beat the Machine - OutOfTime140BPM_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - OutOfTime140BPM_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="136371526" Language="SFX">
+					<ShortName>Pickup Sound - Powerup.wav</ShortName>
+					<Path>SFX\Pickup Sound - Powerup_10C4C929.wem</Path>
+				</File>
+				<File Id="141463839" Language="SFX">
+					<ShortName>Beat the Machine - Dark Corridor_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - Dark Corridor_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="145962748" Language="SFX">
+					<ShortName>Beat the Machine - ΔαταΓαλλ_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - ΔαταΓαλλ_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="167516202" Language="SFX">
+					<ShortName>ThroatyBigRig.wav</ShortName>
+					<Path>SFX\ThroatyBigRig_D79FB2B7.wem</Path>
+				</File>
+				<File Id="196353053" Language="SFX">
+					<ShortName>Beat the Machine - Searching for Malware_Insert 6.wav</ShortName>
+					<Path>SFX\Beat the Machine - Searching for Malware_Insert 6_D79FB2B7.wem</Path>
+				</File>
+				<File Id="201313859" Language="SFX">
+					<ShortName>Survival Sound2.wav</ShortName>
+					<Path>SFX\Survival Sound2_10C4C929.wem</Path>
+				</File>
+				<File Id="227664011" Language="SFX">
+					<ShortName>WaveComplete.wav</ShortName>
+					<Path>SFX\WaveComplete_10C4C929.wem</Path>
+				</File>
+				<File Id="245195211" Language="SFX">
+					<ShortName>Beat the Machine - Main Menu!_Master.wav</ShortName>
+					<Path>SFX\Beat the Machine - Main Menu!_Master_D79FB2B7.wem</Path>
+				</File>
+				<File Id="245821584" Language="SFX">
+					<ShortName>Beat the Machine - Dark Corridor_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - Dark Corridor_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="271035314" Language="SFX">
+					<ShortName>Beat the Machine - Last Crisis_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - Last Crisis_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="288719384" Language="SFX">
+					<ShortName>Beat the Machine - GameOver_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - GameOver_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="289357118" Language="SFX">
+					<ShortName>WarningHealthCriticalSyncopia.wav</ShortName>
+					<Path>SFX\WarningHealthCriticalSyncopia_10C4C929.wem</Path>
+				</File>
+				<File Id="314393343" Language="SFX">
+					<ShortName>Overclocked_Insert 9.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 9_D79FB2B7.wem</Path>
+				</File>
+				<File Id="317791852" Language="SFX">
+					<ShortName>Beat the Machine - Hazard Course RM_Insert 7.wav</ShortName>
+					<Path>SFX\Beat the Machine - Hazard Course RM_Insert 7_D79FB2B7.wem</Path>
+				</File>
+				<File Id="328855267" Language="SFX">
+					<ShortName>Beat the Machine - Building Up!130BPM_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - Building Up!130BPM_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="352681977" Language="SFX">
+					<ShortName>Beat the Machine - T.O.M_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - T.O.M_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="355076640" Language="SFX">
+					<ShortName>Beat the Machine - ΔαταΓαλλ_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - ΔαταΓαλλ_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="366792016" Language="SFX">
+					<ShortName>DangerDanger_Insert 5.wav</ShortName>
+					<Path>SFX\DangerDanger_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="370199297" Language="SFX">
+					<ShortName>Beat the Machine - T.O.M_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - T.O.M_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="384341240" Language="SFX">
+					<ShortName>MenuAccept.wav</ShortName>
+					<Path>SFX\MenuAccept_10C4C929.wem</Path>
+				</File>
+				<File Id="390301185" Language="SFX">
+					<ShortName>FanNoise.wav</ShortName>
+					<Path>SFX\FanNoise_D79FB2B7.wem</Path>
+				</File>
+				<File Id="394293964" Language="SFX">
+					<ShortName>Beat the Machine - GameOver_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - GameOver_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="398408750" Language="SFX">
+					<ShortName>Beat the Machine - Hum Sound.wav</ShortName>
+					<Path>SFX\Beat the Machine - Hum Sound_10C4C929.wem</Path>
+				</File>
+				<File Id="408886348" Language="SFX">
+					<ShortName>Зкщещсфд Фдуке_Insert 6.wav</ShortName>
+					<Path>SFX\Зкщещсфд Фдуке_Insert 6_D79FB2B7.wem</Path>
+				</File>
+				<File Id="426597336" Language="SFX">
+					<ShortName>Beat the Machine - SolidState_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - SolidState_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="437132610" Language="SFX">
+					<ShortName>LockedGate.wav</ShortName>
+					<Path>SFX\LockedGate_10C4C929.wem</Path>
+				</File>
+				<File Id="437428124" Language="SFX">
+					<ShortName>Beat the Machine - Building Up!130BPM_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - Building Up!130BPM_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="452475431" Language="SFX">
+					<ShortName>Beat the Machine - Altercation V.2_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - Altercation V.2_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="458841035" Language="SFX">
+					<ShortName>NetworkNebula_Insert 2.wav</ShortName>
+					<Path>SFX\NetworkNebula_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="464475320" Language="SFX">
+					<ShortName>Beat the Machine - Altercation V.2_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - Altercation V.2_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="465193857" Language="SFX">
+					<ShortName>Beat the Machine - Hazard Course RM_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - Hazard Course RM_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="466517656" Language="SFX">
+					<ShortName>Beat the Machine - Hazard Course RM_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - Hazard Course RM_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="468841702" Language="SFX">
+					<ShortName>Зкщещсфд Фдуке_Insert 4.wav</ShortName>
+					<Path>SFX\Зкщещсфд Фдуке_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="479780240" Language="SFX">
+					<ShortName>Beat the Machine - Tutorial_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - Tutorial_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="494594467" Language="SFX">
+					<ShortName>Зкщещсфд Фдуке_Insert 2.wav</ShortName>
+					<Path>SFX\Зкщещсфд Фдуке_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="500491677" Language="SFX">
+					<ShortName>Beat the Machine - GameOver_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - GameOver_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="520141688" Language="SFX">
+					<ShortName>Beat the Machine - Altercation V.2_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - Altercation V.2_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="522333784" Language="SFX">
+					<ShortName>Beat the Machine - Tutorial_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - Tutorial_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="526681290" Language="SFX">
+					<ShortName>Beat the Machine - Searching for Malware_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - Searching for Malware_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="527544734" Language="SFX">
+					<ShortName>Зкщещсфд Фдуке_Insert 3.wav</ShortName>
+					<Path>SFX\Зкщещсфд Фдуке_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="527888998" Language="SFX">
+					<ShortName>Beat the Machine - Dark Corridor_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - Dark Corridor_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="533639395" Language="SFX">
+					<ShortName>BTM - Survival 2_Insert 1.wav</ShortName>
+					<Path>SFX\BTM - Survival 2_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="552945453" Language="SFX">
+					<ShortName>Beat the Machine - Hazard Course RM_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - Hazard Course RM_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="561541784" Language="SFX">
+					<ShortName>BTM - Survival 2_Insert 4.wav</ShortName>
+					<Path>SFX\BTM - Survival 2_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="564478274" Language="SFX">
+					<ShortName>NetworkNebula_Insert 1.wav</ShortName>
+					<Path>SFX\NetworkNebula_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="564935710" Language="SFX">
+					<ShortName>SubBassSpeaker2.wav</ShortName>
+					<Path>SFX\SubBassSpeaker2_10C4C929.wem</Path>
+				</File>
+				<File Id="570494155" Language="SFX">
+					<ShortName>Beat the Machine - Searching for Malware_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - Searching for Malware_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="577743018" Language="SFX">
+					<ShortName>Beat the Machine - Hazard Course RM_Insert 6.wav</ShortName>
+					<Path>SFX\Beat the Machine - Hazard Course RM_Insert 6_D79FB2B7.wem</Path>
+				</File>
+				<File Id="581522923" Language="SFX">
+					<ShortName>Generator.wav</ShortName>
+					<Path>SFX\Generator_10C4C929.wem</Path>
+				</File>
+				<File Id="592101644" Language="SFX">
+					<ShortName>WarningHealthDepletingSyncopia.wav</ShortName>
+					<Path>SFX\WarningHealthDepletingSyncopia_10C4C929.wem</Path>
+				</File>
+				<File Id="603006363" Language="SFX">
+					<ShortName>Overclocked_Insert 2.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="604306694" Language="SFX">
+					<ShortName>MenuBack.wav</ShortName>
+					<Path>SFX\MenuBack_10C4C929.wem</Path>
+				</File>
+				<File Id="617833390" Language="SFX">
+					<ShortName>DangerDanger_Insert 3.wav</ShortName>
+					<Path>SFX\DangerDanger_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="620504800" Language="SFX">
+					<ShortName>Beat the Machine - T.O.M_Insert 6.wav</ShortName>
+					<Path>SFX\Beat the Machine - T.O.M_Insert 6_D79FB2B7.wem</Path>
+				</File>
+				<File Id="626740049" Language="SFX">
+					<ShortName>Beat the Machine - ΔαταΓαλλ_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - ΔαταΓαλλ_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="627269105" Language="SFX">
+					<ShortName>Beat the Machine - Searching for Malware_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - Searching for Malware_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="634935615" Language="SFX">
+					<ShortName>Beat the Machine - Altercation V.2_Insert 6.wav</ShortName>
+					<Path>SFX\Beat the Machine - Altercation V.2_Insert 6_D79FB2B7.wem</Path>
+				</File>
+				<File Id="635349592" Language="SFX">
+					<ShortName>Beat the Machine - OutOfTime140BPM_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - OutOfTime140BPM_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="639806263" Language="SFX">
+					<ShortName>DangerDanger_Insert 2.wav</ShortName>
+					<Path>SFX\DangerDanger_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="669703945" Language="SFX">
+					<ShortName>Beat the Machine - Last Crisis_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - Last Crisis_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="676823321" Language="SFX">
+					<ShortName>WarningDeathImminentSyncopia.wav</ShortName>
+					<Path>SFX\WarningDeathImminentSyncopia_10C4C929.wem</Path>
+				</File>
+				<File Id="709325972" Language="SFX">
+					<ShortName>Overclocked_Insert 5.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="714123503" Language="SFX">
+					<ShortName>BTMCriticalHealth.wav</ShortName>
+					<Path>SFX\BTMCriticalHealth_D79FB2B7.wem</Path>
+				</File>
+				<File Id="727255206" Language="SFX">
+					<ShortName>Beat the Machine - SolidState_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - SolidState_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="737235813" Language="SFX">
+					<ShortName>BTM10.Drums.wav</ShortName>
+					<Path>SFX\BTM10.Drums_D79FB2B7.wem</Path>
+				</File>
+				<File Id="738242232" Language="SFX">
+					<ShortName>Beat the Machine - SolidState_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - SolidState_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="744871505" Language="SFX">
+					<ShortName>DangerDanger_Insert 4.wav</ShortName>
+					<Path>SFX\DangerDanger_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="758454215" Language="SFX">
+					<ShortName>Beat the Machine - Building Up!130BPM_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - Building Up!130BPM_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="765801682" Language="SFX">
+					<ShortName>BTM - Survival 2_Insert 2.wav</ShortName>
+					<Path>SFX\BTM - Survival 2_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="767324522" Language="SFX">
+					<ShortName>Beat the Machine - Dark Corridor_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - Dark Corridor_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="772488281" Language="SFX">
+					<ShortName>Beat the Machine - Last Crisis_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - Last Crisis_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="777212987" Language="SFX">
+					<ShortName>Overclocked_Insert 8.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 8_D79FB2B7.wem</Path>
+				</File>
+				<File Id="777961418" Language="SFX">
+					<ShortName>Beat the Machine - Last Crisis_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - Last Crisis_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="778777667" Language="SFX">
+					<ShortName>SFX SHIP.wav</ShortName>
+					<Path>SFX\SFX SHIP_10C4C929.wem</Path>
+				</File>
+				<File Id="779490330" Language="SFX">
+					<ShortName>FireWallSound.wav</ShortName>
+					<Path>SFX\FireWallSound_10C4C929.wem</Path>
+				</File>
+				<File Id="794266755" Language="SFX">
+					<ShortName>Beat the Machine - Altercation V.2_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - Altercation V.2_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="798751534" Language="SFX">
+					<ShortName>Beat the Machine - Building Up!130BPM_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - Building Up!130BPM_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="805443829" Language="SFX">
+					<ShortName>Зкщещсфд Фдуке_Insert 5.wav</ShortName>
+					<Path>SFX\Зкщещсфд Фдуке_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="823790730" Language="SFX">
+					<ShortName>Beat the Machine - Altercation V.2_Insert 8.wav</ShortName>
+					<Path>SFX\Beat the Machine - Altercation V.2_Insert 8_D79FB2B7.wem</Path>
+				</File>
+				<File Id="827464832" Language="SFX">
+					<ShortName>Beat the Machine - T.O.M_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - T.O.M_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="828654342" Language="SFX">
+					<ShortName>Beat the Machine - Searching for Malware_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - Searching for Malware_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="834691486" Language="SFX">
+					<ShortName>Overclocked_Insert 3.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="835438037" Language="SFX">
+					<ShortName>WaveCompleteSyncopia.wav</ShortName>
+					<Path>SFX\WaveCompleteSyncopia_10C4C929.wem</Path>
+				</File>
+				<File Id="839725456" Language="SFX">
+					<ShortName>bullet3.wav</ShortName>
+					<Path>SFX\bullet3_10C4C929.wem</Path>
+				</File>
+				<File Id="858178332" Language="SFX">
+					<ShortName>Overclocked_Insert 7.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 7_D79FB2B7.wem</Path>
+				</File>
+				<File Id="887563027" Language="SFX">
+					<ShortName>Beat the Machine - OutOfTime140BPM_Insert 1.wav</ShortName>
+					<Path>SFX\Beat the Machine - OutOfTime140BPM_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="906187999" Language="SFX">
+					<ShortName>NetworkNebula_Insert 3.wav</ShortName>
+					<Path>SFX\NetworkNebula_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="907771612" Language="SFX">
+					<ShortName>PhaserLaserRF_Master.wav</ShortName>
+					<Path>SFX\PhaserLaserRF_Master_10C4C929.wem</Path>
+				</File>
+				<File Id="909856174" Language="SFX">
+					<ShortName>Beat the Machine - Dark Corridor_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - Dark Corridor_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="910159459" Language="SFX">
+					<ShortName>Beat the Machine - T.O.M_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - T.O.M_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="921223229" Language="SFX">
+					<ShortName>bullet2.wav</ShortName>
+					<Path>SFX\bullet2_10C4C929.wem</Path>
+				</File>
+				<File Id="921372953" Language="SFX">
+					<ShortName>Overclocked_Insert 1.wav</ShortName>
+					<Path>SFX\Overclocked_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="928599834" Language="SFX">
+					<ShortName>HullMending.wav</ShortName>
+					<Path>SFX\HullMending_10C4C929.wem</Path>
+				</File>
+				<File Id="940975361" Language="SFX">
+					<ShortName>Beat the Machine - Tutorial_Insert 5.wav</ShortName>
+					<Path>SFX\Beat the Machine - Tutorial_Insert 5_D79FB2B7.wem</Path>
+				</File>
+				<File Id="944360586" Language="SFX">
+					<ShortName>BTM - Survival 2_Insert 3.wav</ShortName>
+					<Path>SFX\BTM - Survival 2_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="957675718" Language="SFX">
+					<ShortName>Beat the Machine - Last Crisis_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - Last Crisis_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="964761067" Language="SFX">
+					<ShortName>Beat the Machine - Searching for Malware_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - Searching for Malware_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="969800005" Language="SFX">
+					<ShortName>Tank_Shot.wav</ShortName>
+					<Path>SFX\Tank_Shot_10C4C929.wem</Path>
+				</File>
+				<File Id="975904574" Language="SFX">
+					<ShortName>DeathSound.wav</ShortName>
+					<Path>SFX\DeathSound_10C4C929.wem</Path>
+				</File>
+				<File Id="1001922979" Language="SFX">
+					<ShortName>BTMHeal.wav</ShortName>
+					<Path>SFX\BTMHeal_10C4C929.wem</Path>
+				</File>
+				<File Id="1008405592" Language="SFX">
+					<ShortName>Beat the Machine - Hazard Course RM_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - Hazard Course RM_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1010391653" Language="SFX">
+					<ShortName>Beat the Machine - ΔαταΓαλλ_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - ΔαταΓαλλ_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1026359237" Language="SFX">
+					<ShortName>Зкщещсфд Фдуке_Insert 1.wav</ShortName>
+					<Path>SFX\Зкщещсфд Фдуке_Insert 1_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1051246967" Language="SFX">
+					<ShortName>Beat the Machine - GameOver_Insert 3.wav</ShortName>
+					<Path>SFX\Beat the Machine - GameOver_Insert 3_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1055693212" Language="SFX">
+					<ShortName>Beat the Machine - ΔαταΓαλλ_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - ΔαταΓαλλ_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1061949152" Language="SFX">
+					<ShortName>Beat the Machine - Tutorial_Insert 4.wav</ShortName>
+					<Path>SFX\Beat the Machine - Tutorial_Insert 4_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1062895423" Language="SFX">
+					<ShortName>Beat the Machine - Altercation V.2_Insert 2.wav</ShortName>
+					<Path>SFX\Beat the Machine - Altercation V.2_Insert 2_D79FB2B7.wem</Path>
+				</File>
+				<File Id="1070604684" Language="SFX">
+					<ShortName>BTM - Survival 2_Insert 5.wav</ShortName>
+					<Path>SFX\BTM - Survival 2_Insert 5_D79FB2B7.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
