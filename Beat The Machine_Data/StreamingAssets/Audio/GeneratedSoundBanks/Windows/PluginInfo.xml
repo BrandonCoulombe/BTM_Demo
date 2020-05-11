@@ -1,7 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<PluginInfo Project="Beat The Machine_WwiseProject" Platform="Windows" BasePlatform="Windows">
-	<Plugins>
-		<Plugin Name="System" ID="11403271" DLL="DefaultSink"/>
-		<Plugin Name="No Output" ID="11862023" DLL="DefaultSink"/>
-	</Plugins>
-</PluginInfo>
+version https://git-lfs.github.com/spec/v1
+oid sha256:7493d2aba623fa918d2f4a0047b9a0481aa87e2950e7a07737408be941ea1344
+size 290
